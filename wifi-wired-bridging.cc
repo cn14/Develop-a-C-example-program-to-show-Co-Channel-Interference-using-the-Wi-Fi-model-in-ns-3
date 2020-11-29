@@ -15,7 +15,7 @@
  */
 
 // Default network topology includes some number of AP nodes specified by
-// the variable nWifis (defaults to 2).  Off of each AP node, there are some
+// the variable nWifis (defaults to two).  Off of each AP node, there are some
 // number of STA nodes specified by the variable nStas (defaults to two).
 // Each AP talks to its associated STA nodes.  There are bridge net devices
 // on each AP node that bridge the whole thing into one network.
